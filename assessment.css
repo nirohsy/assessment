@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to left, #BCF4DE 0%,#CDE5D7 30%,#FFB7C3 100%);
+    background-color: linear-gradient(to left, #BCF4DE 0%,#CDE5D7 30%,#FFB7C3 100%);
     background-repeat: no-repeat;
     color: #FDFFFF;
     width: 500px;
